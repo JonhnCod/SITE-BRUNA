@@ -128,7 +128,7 @@ function App() {
               </li>
               <li className="flex items-start">
                 <span className="text-[#C5A059] mr-3 text-xl">✓</span>
-                <p><strong>Expert em Endoscopia:</strong> Especialista de Produtos (Cook Medical e ERBE Endoscopy).</p>
+                <p><strong>Expert em Endoscopia:</strong> Mais de 5 anos de vivência em Centros endoscópicos.</p>
               </li>
               <li className="flex items-start">
                 <span className="text-[#C5A059] mr-3 text-xl">✓</span>
