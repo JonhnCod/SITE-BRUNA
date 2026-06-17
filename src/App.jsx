@@ -5,7 +5,7 @@ import foto3 from './assets/bruna-3.jpeg';
 import logo from './assets/logo.jpeg'; // Importação da nova logo
 
 function App() {
-  const whatsappNumber = "5548999999999"; 
+  const whatsappNumber = "5565992501128"; 
   const whatsappLink = `https://wa.me/${whatsappNumber}?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20a%20consultoria!`;
 
   return (
@@ -112,7 +112,7 @@ function App() {
 
           {/* Texto Sobre */}
           <div className="w-full lg:w-1/2">
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">Quem é Bruna Rhayssa?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">Quem é Bruna Ferreira?</h2>
             <p className="text-lg text-zinc-400 mb-6">
               Com 18 anos de vivência no setor de saúde, atuo na intersecção perfeita entre a prática clínica avançada e a segurança legal.
             </p>
