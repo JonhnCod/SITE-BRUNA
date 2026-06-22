@@ -33,7 +33,7 @@ function App() {
         <div className="absolute inset-0 opacity-10 bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-[#C5A059] via-transparent to-transparent"></div>
         <div className="max-w-5xl mx-auto px-6 relative z-10 text-center mt-8">
           <span className="text-[#C5A059] font-semibold tracking-wider uppercase text-sm mb-4 block">
-            Especialista em Saúde & Direito
+            Compliance Clínico-Operacional
           </span>
           <h1 className="text-4xl md:text-6xl font-extrabold mb-6 leading-tight text-white">
             Blindagem Jurídica e Gestão de Risco <br className="hidden md:block"/> para Centros Endoscópicos
